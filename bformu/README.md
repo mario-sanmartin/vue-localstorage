@@ -1,19 +1,6 @@
 # formulario-1
+Pequeño crud realizado con vuejs + localstorage.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+recordar que para poder ejecutar el repositorio 
+debes instalar los package de node con npm install (npm i)
+dentro de la carpete tras clonarlo.
